@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-#/Users/tenzinkamtzi/Library/"Mobile Documents"/com~apple~CloudDocs/Zinbari/01_Personal/Tenzin/"Tenzin Python Codes"/Project_Webscraping_Watchlist/Dashboard_Price_Capturer/
 
 import streamlit_authenticator as stauth
 import plotly.express as px
